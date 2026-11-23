@@ -1,0 +1,268 @@
+PROMPTS QUE ESCRIBIÓ CLAUDE PARA "UN CABALLERO EN NUEVA YORK" (@soydiegoosorio)
+CÓMO USARLOS: pégale este archivo a Claude Code (con Higgsfield conectado) y dile "haz este video con mi clon".
+Image 1 = una foto de tu cara · Image 2 = tu ficha de cuerpo entero con la ropa del video (Claude la crea con GPT Image 2.6).
+Seedance 2.5 en Higgsfield: 9:16, 480p, con audio. Cambia [YOUR LOOK] por cómo eres tú.
+El video sale de 2 clips de 15 segundos. Las escenas que se rehicieron (la moneda, el taxi y el repartidor) van al final: úsalas si esa escena te sale mal.
+
+==============================================================================
+FICHA DEL PERSONAJE (GPT Image 2.6, 9:16)
+==============================================================================
+
+Create three photorealistic studio photographs of the same adult man, arranged side by side in one 16:9 sheet: a full-body front view on the left, a full-body back view in the middle, and a detailed head-and-shoulders portrait on the right. All three panels are the same height and sit on one continuous neutral mid-grey studio backdrop.
+
+IDENTITY — EXACTLY the man of image 1 (image 3 shows the same man in three-quarter view): [YOUR LOOK: glasses or not, hair, beard], both eyes the same size, his real age. Preserve his exact facial structure, skin tone, eye shape, eyebrows, nose, lips, jawline, ears and facial hair. Never beautify, stylize, age up, age down, slim or replace his identity. He must be instantly recognizable as the man in image 1 in all three panels. Body as image 2: tall and fit but LEAN and slim, NOT muscular, NOT bulky, normal arms, head and face naturally sized. Take nothing else from the images (no clothes, no background). If he wears glasses, he keeps them in all panels.
+
+OUTFIT (an elegant New York gentleman):
+- a long black wool overcoat reaching just below the knees, worn open
+- a slim black two-piece suit
+- a crisp white shirt and a slim black tie
+- polished black leather Chelsea boots
+- in his LEFT hand: a white takeaway coffee cup with a brown cardboard sleeve and a white lid, no logo
+- in his RIGHT hand: a closed classic black umbrella with a curved dark wooden crook handle and a metal tip
+Natural fabric folds, real wool and cotton texture, realistic stitching.
+
+PANEL 1 — front, full body: standing naturally facing the camera, relaxed posture, the coffee in his left hand and the closed umbrella in his right hand, neutral expression, looking directly into the lens. Complete head-to-toe framing with a little space above the head and below the boots.
+PANEL 2 — back, full body: the same standing pose seen directly from behind, showing the back of the overcoat, the back of the hair, the umbrella and the boots. Complete head-to-toe framing.
+PANEL 3 — head-and-shoulders portrait: a large close-up of the head and upper shoulders, straight-on, neutral expression, natural eye contact, mouth closed. The coat collar, white shirt collar and black tie clearly visible.
+
+PHOTOGRAPHY: ultra-photorealistic commercial fashion photography, shot on a Sony A7R V with an 85mm portrait lens. Soft, directional studio light from the front left, identical in all three panels. Natural colour grading. Real skin texture with visible pores, fine facial hair, natural tiny asymmetry, real eyelashes, moist eyes with realistic catchlights. Physically accurate soft shadows on the floor beneath the feet in the full-body panels. All three panels look like photographs taken within seconds of each other in the same studio session.
+CONSISTENCY: the exact same person, face, glasses, hair, body, outfit, coffee cup and umbrella in all three panels.
+Negative: no different face between panels, no changed body proportions, no missing or changed garments, no opened umbrella, no logos on the cup, no cropped head or feet in the full-body panels, no dramatic pose, no smiling, no 3D render, no CGI, no illustration, no plastic or waxy skin, no beauty filter, no text, no labels, no watermark.
+
+==============================================================================
+CLIP 1 (15 s)
+==============================================================================
+
+A 15-second live-action comedy, vertical 9:16, four shots joined by HARD CUTS, filmed like a high-budget movie on location in New York City on a soft, hazy morning. ARRI Alexa 35 with Cooke S4 prime lenses, 24 fps, natural motion blur. Every shot is LOCKED OFF on a tripod: the camera never moves, never zooms, never pans. Look: soft diffused morning light, a faint mist in the distance, creamy muted city colours with small warm accents, warm golden light glowing from shop windows, gentle contrast, fine 35mm film grain. Real people, real places, real physics. Every gag has a clear cause and a clear result. Fast comedic pacing. Not animation, not CGI.
+
+THE MAIN CHARACTER
+Image 1 = THE MAN'S FACE: [YOUR LOOK: glasses or not, hair, beard]; lock his exact face.
+Image 2 = THE SAME MAN'S FULL LOOK: copy his outfit (long black wool overcoat worn open, black suit, white shirt, black tie, black leather Chelsea boots), his white coffee cup and his closed black umbrella with a curved wooden crook EXACTLY, identical in every shot. Tall and lean, not muscular.
+HANDS: the coffee is ALWAYS in his LEFT hand and never touches anything. The closed umbrella is ALWAYS in his RIGHT hand. He does every action only with the umbrella: its metal tip or its curved crook. He never uses his hands.
+BEHAVIOUR: he walks at a brisk, confident, slightly bouncy pace. He never stops, never looks at the problem, never reacts, never talks, and keeps a calm, slightly bored face. In each shot he does exactly ONE quick umbrella move, then walks on.
+
+THE CAST (every extra is a completely different person; no two look alike; none of them wears glasses):
+- THE TEXTING WOMAN (shot 1): a woman in her twenties with a dark bob, a beige trench coat and a red scarf.
+- THE LITTLE GIRL (shot 2): about six years old, brown hair in two pigtails, a light blue coat.
+- THE TAXI MAN (shot 3): a middle-aged bald businessman with a grey moustache, NO glasses, a charcoal-grey suit, a white shirt and a long red tie, a brown leather briefcase.
+- THE DOG WALKER (shot 4): a young man in his twenties with curly ginger hair, a green knitted beanie, a bright blue puffer jacket, blue jeans and white trainers. NO suit, NO tie, NO glasses.
+
+== SHOT 1 — THE MANHOLE [0.0–3.5s] ==
+SET: a city sidewalk lined on the right with a bakery's glowing shop windows full of bread.
+POSITIONS: in the centre of the sidewalk, one metre ahead of him and slightly to his right, a manhole is open. Its heavy round iron cover stands upright on its edge on the near side of the hole, between him and the hole, like an open lid. Three metres beyond the hole, THE TEXTING WOMAN walks toward the hole, looking down at her phone.
+CAMERA: 35mm lens, waist height, close behind the main character, who fills the right third of the frame, walking away from the camera.
+ACTION:
+0.0–0.8 He walks toward the hole; the texting woman walks toward it from the other side.
+0.8–1.3 As he passes the upright cover, he pushes its top edge away from him with the umbrella tip.
+1.3–1.8 The cover tips over and slams down flat, exactly over the hole: CLANG.
+1.8–2.6 The texting woman's foot lands on the closed cover and she walks over it toward the camera, never looking up.
+2.6–3.5 They pass each other.
+END FRAME: the manhole closed, the texting woman walked past safely, the main character walking away.
+HARD CUT.
+
+== SHOT 2 — THE WISHING COIN [3.5–7.5s] ==
+SET: a large round stone fountain in a park, a tall water jet, a white marble arch and bare trees in the misty background.
+CAMERA: 50mm lens, low, at the height of the fountain's stone rim, placed at one end of the rim and looking straight along the top of it. The rim runs straight away from the camera into the distance. The fountain water is on the LEFT side of the rim; a paved path is on the RIGHT side.
+POSITIONS: THE LITTLE GIRL is at the FAR end of the rim, about 6 metres from the camera, small in the background, leaning on the rim with her eyes squeezed shut and hands clasped, making a wish. The main character is in the FOREGROUND, walking toward the camera along the path on the RIGHT side of the rim. He stays in the foreground and never goes near the girl.
+ACTION:
+3.5–4.8 The girl's gold coin has slipped from her fingers onto the top of the rim next to her elbow. It rolls on its edge AWAY from the girl, along the top of the rim TOWARD THE CAMERA, growing bigger in the frame, wobbling, shining.
+4.8–5.3 The coin reaches the main character in the foreground, about 2 metres from the camera, just as it is about to fall off the rim onto the path. Without looking, he flicks it with the umbrella tip: it flips up in a glinting arc to the LEFT, over the water.
+5.3–5.8 It drops into the middle of the fountain water: a tiny plop and a ring of ripples.
+5.8–7.5 Far away in the background, the girl hears the plop, opens her eyes, sees the ripples, and throws both arms up with a huge smile. The main character walks past the camera on the right, sipping his coffee.
+END FRAME: ripples in the water, the little girl in the background cheering with both arms up.
+HARD CUT.
+
+== SHOT 3 — THE TAXI [7.5–11.5s] ==
+SET: a sidewalk beside a stone building. A yellow taxi is parked at the kerb across the back of the frame, its RIGHT side facing the camera. Its engine is idling and its brake lights are on. ALL its doors are CLOSED.
+POSITIONS: THE TAXI MAN stands on the sidewalk at the back edge of the closed rear passenger door. The end of his long red tie is shut tight in the seam of the closed rear passenger door, at chest height. His briefcase lies on the pavement beside him.
+CAMERA: 35mm lens, chest height, on the sidewalk, side-on to the taxi, medium wide.
+ACTION:
+7.5–8.7 The taxi man leans backward, pulling on his trapped tie with both hands, panicking, glancing at the idling taxi. The taxi stays still.
+8.7–9.5 The main character walks in from the left, crossing the frame left to right between the camera and the man, his right side toward the taxi.
+9.5–10.0 Without stopping, he hooks the rear passenger door's handle with the umbrella crook and pulls: the door opens a little.
+10.0–10.5 The tie springs free and, because the man was pulling backward, he falls back and lands sitting on the sidewalk.
+10.5–11.5 The door swings shut and the taxi pulls away to the left. The main character walks out of frame on the right.
+END FRAME: the taxi man sitting on the sidewalk with his free tie, the taxi driving away.
+HARD CUT.
+
+== SHOT 4 — THE DOG WALKER [11.5–15.0s] ==
+SET: the front of a brownstone with a wide stone staircase in the centre.
+POSITIONS: at the foot of the stairs, THE DOG WALKER stands in the centre, wrapped round and round from his knees to his chest in red leashes like thread on a spool, over his blue puffer jacket. Six small dogs on the left pull the leashes tight.
+CAMERA: 35mm lens, chest height, straight on to the staircase, medium wide.
+ACTION:
+11.5–12.2 The main character walks in from the left, crossing in front of him from left to right, his right side toward him.
+12.2–12.6 As he passes, he slips the umbrella crook under the wrapped leashes at the dog walker's chest and keeps walking.
+12.6–14.0 The leashes pull, and the dog walker spins on the spot like a top, two full turns, the leashes unwinding off his body in loops and falling slack to the ground.
+14.0–15.0 He stops, dizzy, completely free, the six dogs sitting calmly around him, and waves a dazed thank-you as the main character walks out of frame on the right.
+END FRAME: the dog walker in his blue puffer jacket standing free and waving, the leashes slack on the ground, six dogs sitting.
+
+SOUND: soft New York morning ambience; the heavy CLANG of the manhole cover; the fountain, a tiny plop, the girl's happy squeal; an idling taxi engine and the man's yelp; yapping dogs and leashes whipping. No dialogue.
+
+BANS: every END FRAME must be reached. No two extras look alike; no extra wears glasses; the dog walker never wears a suit or tie and never looks like the taxi man. The coin never rolls toward the girl; it only rolls away from her; the main character never stands next to the girl. The taxi's doors stay closed until his umbrella opens the rear passenger door; the taxi does not move until the man is free; the trunk never opens. He never touches anything with his hands; the coffee never leaves his left hand. No camera movement. No talking, no random gestures, no opened umbrella. His face, glasses, outfit, coffee and umbrella never change. No readable text or logos, no subtitles, no watermarks, no CGI or cartoon look.
+
+==============================================================================
+CLIP 2 (15 s)
+==============================================================================
+
+A 15-second live-action comedy, vertical 9:16, five shots joined by HARD CUTS, filmed like a high-budget movie on location in New York City on a soft, hazy morning. ARRI Alexa 35 with Cooke S4 prime lenses, 24 fps, natural motion blur. Shots 1, 2, 3 and 5 are LOCKED OFF on a tripod; only shot 4 has a slow camera move. Look: soft diffused morning light, a faint mist in the distance, creamy muted city colours with small warm accents, warm golden light glowing from windows and doorways, gentle contrast, fine 35mm film grain. Real people, real places, real physics. Every gag has a clear cause and a clear result. Fast comedic pacing. Not animation, not CGI.
+
+THE MAIN CHARACTER
+Image 1 = THE MAN'S FACE: [YOUR LOOK: glasses or not, hair, beard]; lock his exact face.
+Image 2 = THE SAME MAN'S FULL LOOK: copy his outfit (long black wool overcoat worn open, black suit, white shirt, black tie, black leather Chelsea boots), his white coffee cup and his closed black umbrella with a curved wooden crook EXACTLY, identical in every shot. Tall and lean, not muscular.
+HANDS: the coffee is ALWAYS in his LEFT hand and never touches anything. The closed umbrella is ALWAYS in his RIGHT hand. He does every action only with the umbrella: its metal tip or its curved crook. He never uses his hands.
+BEHAVIOUR: he walks at a brisk, confident, slightly bouncy pace. He never stops, never looks at the problem, never reacts, never talks, and keeps a calm, slightly bored face, until the soft smile in shot 4.
+
+== SHOT 1 — THE PIZZA RAT [0.0–4.0s] ==
+SET: the sidewalk beside a subway entrance with green iron railings going down a staircase; a red fire hydrant on the left.
+POSITIONS: in the centre foreground, a small grey rat, clearly visible, holds the pointed tip of ONE big triangular slice of pepperoni pizza in its mouth and tries to drag it backward toward the subway stairs. The slice is too floppy and heavy; it barely moves.
+CAMERA: 24mm lens lying ON the pavement at ground level, locked off. Only the main character's boots, coat hem and umbrella tip ever appear in frame.
+ACTION:
+0.0–0.8 The rat tugs and slips. His boots walk into frame from the left.
+0.8–1.3 Without stopping, he slides the umbrella tip under the wide crust end of the slice and flicks it: the slice rolls itself up into a neat tube that ends right at the rat.
+1.3–2.8 The rat grabs the rolled slice in its front paws, lifts it over its head like a log, and trots down the subway stairs with it.
+2.8–4.0 His boots walk out of frame on the right.
+END FRAME: the rat disappearing down the subway stairs carrying the rolled-up slice.
+HARD CUT.
+
+== SHOT 2 — THE DELIVERY MAN [4.0–8.5s] ==
+SET: outside a corner grocery with a red awning and crates of oranges. The pavement is wet and shiny; a yellow caution sign with a slipping-figure pictogram stands on it.
+POSITIONS: a chubby delivery man in a brown suit walks from left to right, holding ONE cardboard drink tray with FOUR coffee cups in front of his chest. The main character walks TWO steps behind him in the same direction, his umbrella hanging down at his side.
+CAMERA: 35mm lens, chest height, side-on to the shop front, medium wide, locked off.
+ACTION (in this exact order):
+4.0–5.2 Both walk to the right. He does nothing; his umbrella hangs down at his side.
+5.2–5.7 THE SLIP: the delivery man's front foot lands on the wet patch beside the caution sign and shoots forward with a squeak. His arms fly up, the tray held high, and he starts falling BACKWARD.
+5.7–6.2 THE CATCH: only now, while the delivery man is already falling, the main character lifts the umbrella and hooks the crook into the back of the delivery man's jacket collar. His fall stops; he hangs tilted back, held only by the crook, his feet still on the ground.
+6.2–6.7 A small tug of the umbrella and the delivery man steps back up onto his feet, standing straight. The four cups wobble but none spill. The crook unhooks.
+6.7–8.5 The delivery man stands frozen, staring at the tray. The main character walks on out of frame on the right.
+END FRAME: the delivery man standing upright, stunned, holding the tray of four unspilled cups.
+HARD CUT.
+
+== SHOT 3 — THE CLUB, WIDE [8.5–12.0s] ==
+SET: the entrance of a grand stone building: a red carpet leading to a tall, CLOSED, dark wooden double door. A red velvet rope on brass posts runs across the front of the carpet. A long, well-dressed queue waits behind the rope on the LEFT.
+POSITIONS: exactly ONE bouncer, a huge man in a black suit and dark sunglasses, stands to the RIGHT of the door. A man in a light grey suit stands at the front of the queue.
+CAMERA: 35mm lens, eye height, three-quarter view of the entrance, wide, locked off.
+ACTION:
+8.5–9.8 The man in the grey suit steps up to the rope; the bouncer raises his palm and stops him. The man steps back into the queue, offended, leaving the carpet clear.
+9.8–11.2 The main character walks up the red carpet from the bottom left, sipping his coffee, without slowing. The bouncer unhooks the velvet rope from its post and steps aside, without touching him.
+11.2–12.0 Without stopping, he pushes the closed door with the umbrella tip; it swings inward, and warm golden light pours out.
+END FRAME: the door open, golden light spilling out onto the carpet.
+HARD CUT.
+
+== SHOT 4 — HIS CLOSE-UP, FRONT ANGLE [12.0–13.8s] ==
+CAMERA: the reverse angle, from INSIDE the club looking out through the open doorway. 50mm lens at his eye level, straight on to his face. A medium close-up, framed from his chest up. The camera slowly glides backward at exactly his walking pace, so he stays the same size in the frame.
+ACTION: he walks straight toward the camera through the doorway. Warm golden light from inside the club falls softly on his face and makes a warm rim on his hair; behind him, out of focus, the grey street, the red carpet and the bouncer. As he walks, he lifts the coffee for a small sip, then a soft, slightly satisfied smile spreads across his face: relaxed, confident, not a big grin. His eyes look ahead, past the camera. Real skin with pores, natural catchlights in his eyes behind the glasses.
+END FRAME: his face in the golden light with the soft smile, still walking.
+HARD CUT.
+
+== SHOT 5 — THE BOUNCER [13.8–15.0s] ==
+CAMERA: exactly the framing of shot 3, locked off.
+ACTION: he has walked inside and is gone; the doorway glows gold. The bouncer clips the rope back and points the grey-suit man to the back of the queue. Hold.
+END FRAME: the bouncer pointing, the golden doorway glowing, the queue waiting.
+
+SOUND: soft New York morning ambience; a squeaky rat and paper rustling; a shoe squeak, a gasp, cups rattling; the click of the velvet rope and the creak of the heavy door with warm music spilling out. No dialogue.
+
+BANS: every END FRAME must be reached. One triangular pizza slice only, never a whole round pizza; the rolled slice never rolls away on its own. He does NOTHING before the delivery man slips; his umbrella stays down until the delivery man is already falling. He never touches the delivery man with his hands; the only contact is the crook in his collar; no tall stack of cups; the delivery man never lies flat or floats. Exactly one bouncer; he never touches the door or the main character; nobody else enters; the door stays closed until his umbrella pushes it. In shot 4 he keeps walking, faces the camera and smiles softly; no big grin, no looking into the lens. The coffee never leaves his left hand. No camera movement except the slow backward glide in shot 4. No talking, no random gestures, no opened umbrella. His face, glasses, outfit, coffee and umbrella never change. No readable text or logos, no subtitles, no watermarks, no CGI or cartoon look.
+
+==============================================================================
+ESCENA REHECHA: LA MONEDA, PARTE A (rueda por el borde)
+==============================================================================
+
+A 4-second live-action shot, vertical 9:16, ONE continuous shot with no cuts, filmed like a high-budget movie on location in a New York City park on a soft, hazy morning. ARRI Alexa 35, Cooke S4 35mm prime, 24 fps, natural motion blur, LOCKED OFF on a tripod: the camera never moves. Soft diffused light, creamy muted colours, fine 35mm film grain. Real people, real scale, real physics. Not animation, not CGI.
+
+The video starts EXACTLY on the start image and ends EXACTLY on the end image.
+Image 1 = THE MAN'S FACE: [YOUR LOOK: glasses or not, hair, beard]. Image 2 = HIS FULL LOOK: long black wool overcoat worn open, black suit, white shirt, black tie, black Chelsea boots, a white coffee cup ALWAYS in his LEFT hand, a closed black umbrella with a curved wooden crook ALWAYS in his RIGHT hand. He never talks, calm slightly bored face, he never looks down at the coin.
+
+THE COIN: ONE small real coin, a gold-coloured US one-dollar coin, 26 millimetres across, the size of a fingertip. It keeps EXACTLY the same real size for the whole shot: a little bright golden disc on the grey stone, never bigger, never a medallion. It never comes closer than three metres to the camera.
+
+ACTION:
+0.0–2.8 The little coin rolls on its edge along the flat top of the fountain rim toward the camera, wobbling slightly, glinting in the light. At the same time the man walks toward the camera along the wet path on the right side of the rim at a calm, brisk pace, his umbrella hanging down. Far away at the end of the rim, the little girl in the light blue coat watches her coin.
+2.8–3.4 Three metres from the camera the coin wobbles and tilts OUTWARD toward the path, about to fall off the rim onto the pavement.
+3.4–4.0 Just as it tips, the man, still walking and without looking, lowers his closed umbrella so that its thin metal tip touches the little coin from the path side. END exactly on the end image.
+
+SOUND: soft park ambience, the fountain water, a faint metallic rolling of the coin on stone, his footsteps on the wet path. No music, no dialogue.
+
+BANS: the coin never grows, never fills the frame, never comes near the camera; only one coin. No camera movement, no cuts. No text, no subtitles, no logos. Not CGI, not cartoon.
+
+==============================================================================
+ESCENA REHECHA: LA MONEDA, PARTE B (al agua; arranca del último cuadro de la A)
+==============================================================================
+
+A 4-second live-action shot, vertical 9:16, ONE continuous shot with no cuts, filmed like a high-budget movie on location in a New York City park on a soft, hazy morning. ARRI Alexa 35, Cooke S4 35mm prime, 24 fps, natural motion blur, LOCKED OFF on a tripod: the camera never moves. Soft diffused light, creamy muted colours, fine 35mm film grain. Real people, real scale, real physics. Not animation, not CGI.
+
+The video starts EXACTLY on the start image (it continues a shot already in motion) and ends EXACTLY on the end image.
+Image 1 = THE MAN'S FACE: [YOUR LOOK: glasses or not, hair, beard]. Image 2 = HIS FULL LOOK: long black wool overcoat worn open, black suit, white shirt, black tie, black Chelsea boots, a white coffee cup ALWAYS in his LEFT hand, a closed black umbrella with a curved wooden crook ALWAYS in his RIGHT hand. He never talks, never stops walking, calm slightly bored face, never looks at the coin, never looks back.
+
+THE COIN: the same small real gold-coloured one-dollar coin already rolling on its edge along the top of the fountain rim in the start image, 26 millimetres across, the size of a fingertip; it never gets bigger.
+
+ACTION (one quick, clear gag):
+0.0–0.9 The little coin keeps rolling along the top of the rim toward the camera, and the man keeps walking toward the camera along the path on the right, umbrella hanging down.
+0.9–1.2 The coin starts to wobble and tip OUTWARD over the outer edge of the rim, toward the path, about to fall onto the pavement.
+1.2–1.5 Right then, without looking, the man gives it ONE tiny tap with the metal tip of his umbrella, a flick of the wrist, the umbrella staying low: the coin flips back over the top of the rim toward the WATER.
+1.5–1.9 The coin drops into the fountain water JUST INSIDE THE RIM at that same spot, with a tiny "plop", a few droplets and a small ring of ripples hugging the stone.
+1.9–4.0 The man walks on toward the camera, umbrella hanging down again, raises his coffee cup to his lips and passes close on the right edge of the frame. Far away at the end of the rim, the little girl in the light blue coat jumps up and throws BOTH ARMS up in joy. END exactly on the end image.
+
+SOUND: soft park ambience, the fountain water, the faint metallic roll of the coin on stone, a tiny tap, a tiny plop, his footsteps, and far away the girl's happy little "yay!". No music, no other dialogue.
+
+BANS: the umbrella touches the coin only ONCE, for an instant; it never pushes or drags the coin along the rim, never swings, never rises above his knee. The coin never flies through the air toward the middle of the fountain; it drops right beside the rim. Only one coin; it never grows and never comes near the camera. No camera movement, no cuts. No text, no subtitles, no logos. Not CGI, not cartoon.
+
+==============================================================================
+ESCENA REHECHA: EL TAXI
+==============================================================================
+
+A 5-second live-action comedy shot, vertical 9:16, filmed like a high-budget movie on location in New York City on a soft, hazy morning. ARRI Alexa 35, Cooke S4 prime, 24 fps, natural motion blur, LOCKED OFF on a tripod: the camera never moves. Soft diffused morning light, creamy muted city colours, fine 35mm film grain. Real people, real physics. Not animation, not CGI.
+
+Image 1 = THE MAIN CHARACTER'S FACE: [YOUR LOOK: glasses or not, hair, beard]. Image 2 = HIS FULL LOOK: long black wool overcoat worn open, black suit, white shirt, black tie, black Chelsea boots, a white coffee cup ALWAYS in his LEFT hand, a closed black umbrella with a curved wooden crook ALWAYS in his RIGHT hand. He acts only with the umbrella, never with his hands, never stops walking, never talks, calm slightly bored face.
+
+SET: a sidewalk beside a grey stone wall. A yellow taxi is ROLLING SLOWLY from right to left along the kerb at walking pace for the whole shot, its right side facing the camera, engine running. Its rear passenger door is CLOSED.
+THE BUSINESSMAN: a middle-aged bald man with a grey moustache, NO glasses, a charcoal-grey suit and a long red tie. The end of his red tie is caught in the seam of the closed rear door: it goes INTO the gap of the closed door and is pinched there. He is OUTSIDE the car on the sidewalk the whole time. Because the taxi is rolling, he is dragged along: he shuffles sideways next to the moving door, leaning AWAY from the car, pulling the tie toward himself with both hands, panicking.
+CAMERA: 35mm lens, chest height, on the sidewalk, side-on to the taxi, medium wide.
+
+ACTION:
+0.0–1.6 The taxi rolls slowly to the left; the businessman shuffles along beside the closed rear door, leaning away from the car, tugging at his trapped tie.
+1.6–2.4 The main character walks in from the left toward them, his right side toward the taxi.
+2.4–2.9 Without stopping, he hooks the rear door handle with the umbrella crook and tugs: the door opens just a crack, about ten centimetres.
+2.9–3.5 The tie slips out of the gap. Because the businessman was pulling away from the car, he stumbles BACKWARD, away from the taxi, and sits down hard on the sidewalk, holding his free tie.
+3.5–5.0 The door clicks shut by itself and the taxi keeps rolling and drives away to the left, empty. The main character walks out of frame on the right, sipping his coffee.
+END FRAME: the businessman sitting on the sidewalk holding his free tie, the taxi driving away.
+
+SOUND: soft city ambience, the slow taxi engine, the businessman's panicked shuffling, a click of the door, his yelp as he sits down. No dialogue.
+
+BANS: the businessman NEVER gets into the car, never sits inside, never falls toward the car; nobody gets in or out of the taxi. The taxi never stops. The door opens only a crack. The tie is caught in the closed door seam, never glued to the outside of the door. No glasses on the businessman. The coffee never leaves the main character's left hand. No camera movement, no talking, no opened umbrella, no readable text or logos, no subtitles, no CGI look.
+
+==============================================================================
+ESCENA REHECHA: EL REPARTIDOR, PARTE A (se resbala solo y lo engancha)
+==============================================================================
+
+A 4-second ONE continuous live-action shot, vertical 9:16, no cuts, filmed like a high-budget movie on location in New York City on a soft, hazy, rainy morning. ARRI Alexa 35, Cooke S4 35mm prime, 24 fps, natural motion blur, LOCKED OFF on a tripod: the camera never moves, never zooms. Soft diffused light, creamy muted city colours, fine 35mm film grain. Real people, real weight, real physics, real-time speed (no slow motion). Not animation, not CGI.
+
+The video starts EXACTLY on the start image and ends EXACTLY on the end image: the same framing, street, fruit stand, people and light.
+Image 1 = THE MAIN CHARACTER'S FACE: [YOUR LOOK: glasses or not, hair, beard]. Image 2 = HIS FULL LOOK: long black wool overcoat worn open, black suit, white shirt, black tie, black Chelsea boots, a white coffee cup ALWAYS in his LEFT hand, a closed black umbrella with a curved wooden crook in his RIGHT hand, held horizontally by the middle of its shaft with the crook pointing forward. He never talks; calm, slightly bored face. He acts only with the umbrella; he never lets go of the coffee.
+
+ACTION (he slips by himself, then gets caught):
+0.0-2.3 The chubby delivery man in the brown suit walks from left to right along the wet sidewalk with small careful steps, eyes on the tray of four coffee cups he holds in front of his chest with both hands. The main character walks calmly about one long step behind him, umbrella held low and level at his side, NOT touching him. A clear gap of empty pavement stays between them.
+2.3-3.3 The delivery man's front foot lands on the slick wet paving stones and slides forward out from under him: his knees buckle, his weight drops and his body starts falling BACKWARD; by reflex both his arms shoot up holding the tray high, the cups wobbling. During this whole second the main character's umbrella is still low and level at his side, far from the delivery man: NOBODY touches him; he slips on his own.
+3.3-4.0 Only now, as the delivery man is already falling back toward him, the main character takes one quick step forward, raises his arm and HOOKS the curved wooden crook of the umbrella over the back of the delivery man's jacket collar, catching him in mid-fall; the fall stops with a small jolt, the jacket pulled taut by the hook. END exactly on the end image.
+
+SOUND: rainy city ambience, footsteps on wet pavement, cups rattling, a shoe squeaking and sliding on wet stone, a sharp gasp, the soft jolt of fabric. No music, no dialogue.
+
+BANS: before 3.3 seconds the umbrella NEVER touches, points at or pushes the delivery man. The umbrella only hooks and holds; it never pushes, hits or trips him. The delivery man never lands on the ground and nothing spills. No camera movement, no cuts. No readable text, no logos, no subtitles. Not CGI, not cartoon.
+
+==============================================================================
+ESCENA REHECHA: EL REPARTIDOR, PARTE B (lo endereza y sigue; arranca del último cuadro de la A)
+==============================================================================
+
+A 5-second ONE continuous live-action shot, vertical 9:16, no cuts, filmed like a high-budget movie on location in New York City on a soft, hazy, rainy morning. ARRI Alexa 35, Cooke S4 35mm prime, 24 fps, natural motion blur, LOCKED OFF on a tripod: the camera never moves, never zooms. Soft diffused light, creamy muted city colours, fine 35mm film grain. Real people, real weight, real physics, real-time speed (no slow motion). Not animation, not CGI.
+
+The video starts EXACTLY on the start image and ends EXACTLY on the end image: the same framing, street, fruit stand, people and light.
+Image 1 = THE MAIN CHARACTER'S FACE: [YOUR LOOK: glasses or not, hair, beard]. Image 2 = HIS FULL LOOK: long black wool overcoat worn open, black suit, white shirt, black tie, black Chelsea boots, a white coffee cup ALWAYS in his LEFT hand, a closed black umbrella with a curved wooden crook in his RIGHT hand, held horizontally by the middle of its shaft with the crook pointing forward. He never talks; calm, slightly bored face. He acts only with the umbrella; he never lets go of the coffee.
+
+The video starts EXACTLY on the start image, continuing a shot already in motion: the delivery man slipped on his own and the main character has just caught him by hooking the crook of his umbrella over the back of his jacket collar.
+
+ACTION (he keeps him from falling):
+0.0-0.8 The delivery man hangs there, tilted back, held up ONLY by the hooked crook, his shoes still on the wet ground, his arms high, the tray of four cups wobbling but not spilling, eyes wide. The main character's arm takes his weight; he braces calmly.
+0.8-1.7 With one firm, calm pull of the umbrella, the main character brings him back up onto his feet, standing straight. The crook slips off the collar.
+1.7-5.0 The delivery man stands frozen, stunned, staring at the four unspilled cups. The main character walks on past him to the right, raising his coffee to his lips, never looking back. END exactly on the end image.
+
+SOUND: rainy city ambience, a relieved gasp, cups rattling softly, footsteps on wet pavement. No music, no dialogue.
+
+BANS: the umbrella only holds him and lifts him up; it never pushes, hits or trips him. The delivery man never touches the ground with his body and nothing spills. The coffee never leaves the main character's left hand. No camera movement, no cuts. No readable text, no logos, no subtitles. Not CGI, not cartoon.
